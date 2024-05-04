@@ -1,0 +1,21 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Node files
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build files
+dist/
+
+# Ignore IDE and editor files
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.old
+*.tmp
